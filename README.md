@@ -5,7 +5,7 @@ Elle permet d'ajouter, modifier, supprimer et visualiser des matériels via une 
 
 ---
 
-PREREQUIS : 
+## PREREQUIS : 
 
 Installer les outils suivants avant de commencer :
 
@@ -20,7 +20,7 @@ Installer Expo CLI :
 
 ---
 
-INSTALLATION : 
+## INSTALLATION : 
 
 Cloner le projet :
 
@@ -39,7 +39,7 @@ Installer les dépendances du frontend :
 
 ---
 
-CONFIGURATION : 
+## CONFIGURATION : 
 
 Ouvrir le fichier frontend/sujet24-app/api/config.js et remplacer l'IP par celle du PC qui héberge le backend :
 
@@ -50,7 +50,7 @@ Le téléphone et le PC doivent être connectés au même réseau WiFi.
 
 ---
 
-LANCER L'APPLICATION : 
+## LANCER L'APPLICATION : 
 
 Démarrer le backend (dans un premier terminal) :
 
@@ -64,7 +64,7 @@ Démarrer le frontend (dans un second terminal) :
 
 ---
 
-CONNEXION VIA CABLE USB : 
+## CONNEXION VIA CABLE USB : 
 
 Activer le mode développeur sur le téléphone Android :
 
